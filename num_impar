@@ -1,0 +1,8 @@
+def num_impar(n, arr):
+   
+    pair = list()
+    c_e=len([x for x in arr if x%2==0]) #verifica se numero é par
+    c_o=len([x for x in arr if x%2!=0]) #verifica se numero é impar
+    pair.append(c_e)
+    pair.append(c_o)
+    return pair
