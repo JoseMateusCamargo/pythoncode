@@ -3,7 +3,7 @@
 #https://practice.geeksforgeeks.org/problems/count-even-odd-python/1
 
 
-''' This is a function problem.You only need to complete the function given below '''
+""" This is a function problem.You only need to complete the function given below """
 #User function Template for python3
 # Function to count even and odd
 # c_e : variable to store even count
